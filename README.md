@@ -1,7 +1,7 @@
 <img align="center" alt="Coding1" width="4000" src="https://tenor.com/en-GB/view/barbie-barbie-princess-gif-14139133">
 <h1 align="center">Hi 👋, I'm Cilla Ganda</h1>
 <h3 align="center">An IT student from NU</h3>
-<img align="right" alt="Coding" width="200" src="https://tenor.com/en-GB/view/barbie-gif-20237036">
+<img align="right" alt="Coding" width="200" src="https://www.icegif.com/wp-content/uploads/2022/04/icegif-609.gif">
 
 - 🌱 I’m currently learning **Java Object Oriented Programming**
 
