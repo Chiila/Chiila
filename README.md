@@ -10,6 +10,10 @@
 
 - 🌱 I’m currently learning **Java Object Oriented Programming**
 
+- 👨‍💻 Course **Bachelor of Science in Information Technology with specialization in Mobile and Web Applications💻📱**
+
+- Email me at: **cillaadlawan@gmail.com <img src="https://i.pinimg.com/originals/64/b5/d9/64b5d98b07e52cb766bef711bb9a2cac.gif" width="30px">**
+
 <p align="left">
 </p>
 
