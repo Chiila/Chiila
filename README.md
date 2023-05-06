@@ -1,4 +1,4 @@
-<img align="center" alt="Coding1" width="4000" src="https://tenor.com/en-GB/view/barbie-barbie-princess-gif-14139133">
+<img align="center" alt="Coding1" width="4000" src="[https://tenor.com/en-GB/view/barbie-barbie-princess-gif-14139133](https://i.pinimg.com/originals/7d/07/a2/7d07a255678962d30d8717dcf5dbd266.gif)">
 <h1 align="center">Hi 👋, I'm Cilla Ganda</h1>
 <h3 align="center">An IT student from NU</h3>
 <img align="right" alt="Coding" width="200" src="https://www.icegif.com/wp-content/uploads/2022/04/icegif-609.gif">
