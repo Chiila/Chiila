@@ -14,7 +14,9 @@
 
 - Email me at: **cillaadlawan@gmail.com <img src="https://i.pinimg.com/originals/64/b5/d9/64b5d98b07e52cb766bef711bb9a2cac.gif" width="30px">**
 
+<h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://www.linkedin.com/in/cilla-adlawan-7b78bb2a1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Cilla Adlawan" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
