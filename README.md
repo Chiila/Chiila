@@ -3,7 +3,7 @@
 
 <h3 align="center">An IT student from National University
  </span>
-  <a href="https://national-u.edu.ph/"><img src="https://upload.wikimedia.org/wikipedia/en/a/a2/National_University_seal.png" alt="National University Logo" width="29" height="35" style="display: inline-block; vertical-align: middle;"></a>
+  <a href="https://national-u.edu.ph/"><img src="https://upload.wikimedia.org/wikipedia/commons/9/90/NU_shield.svg" alt="National University Logo" width="29" height="35" style="display: inline-block; vertical-align: middle;"></a>
 </h3>
 
 <img align="right" alt="Coding" width="200" src="https://i.pinimg.com/originals/87/df/6d/87df6d60f4cc3c07968ae2127bddcc30.gif">
