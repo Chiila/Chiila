@@ -1,5 +1,5 @@
 <img align="center" alt="Coding1" width="4000" src="https://i.pinimg.com/originals/7d/07/a2/7d07a255678962d30d8717dcf5dbd266.gif">
-<h1 align="center">Hi, I'm Cilla Catalan Adlawan <img src="https://lh5.googleusercontent.com/proxy/s9VdtaNqrpMtIJ8seNlwrudzBidQAKbKPG1RADEzLk-4MyZzedzj2wuDc2XXMuJlzHUthGcYF6BtM7x5zW3mebHgOP7B3hwrDCgNMn_qXU6zehIC2VW5YCoPsmfZOU1T50rEeXTYjvlRFbQt3puBObw" width="60" height="40"> </h1> 
+<h1 align="center">Hi, I'm Cilla Catalan Adlawan <img src="https://lh5.googleusercontent.com/proxy/s9VdtaNqrpMtIJ8seNlwrudzBidQAKbKPG1RADEzLk-4MyZzedzj2wuDc2XXMuJlzHUthGcYF6BtM7x5zW3mebHgOP7B3hwrDCgNMn_qXU6zehIC2VW5YCoPsmfZOU1T50rEeXTYjvlRFbQt3puBObw" width="90" height="40"> </h1> 
 
 <h3 align="center">An IT student from National University
  </span>
