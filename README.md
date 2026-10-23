@@ -4,7 +4,7 @@
 <img src="https://lh5.googleusercontent.com/proxy/s9VdtaNqrpMtIJ8seNlwrudzBidQAKbKPG1RADEzLk-4MyZzedzj2wuDc2XXMuJlzHUthGcYF6BtM7x5zW3mebHgOP7B3hwrDCgNMn_qXU6zehIC2VW5YCoPsmfZOU1T50rEeXTYjvlRFbQt3puBObw" width="90" height="40"> 
 </h1>
 
-<h3 align="center">An IT student from National University
+<h3 align="center">A Software Engineer
 <a href="https://national-u.edu.ph/">
 <img alt="National University Logo" width="29" height="35" src="https://upload.wikimedia.org/wikipedia/commons/9/90/NU_shield.svg" style="display: inline-block; vertical-align: middle;">
 </a>
